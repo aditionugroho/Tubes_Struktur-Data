@@ -1,0 +1,20 @@
+Action;Assassins Creed Unity
+Action;God of War
+Action;Grand Theft Auto V
+Action;Red Dead Redemption 2
+Action;The Legend of Zelda: Breath of the Wild
+RPG;Dragon Age: Inquisition
+RPG;Fallout 4
+RPG;Kingdom Come: Deliverance
+RPG;The Elder Scrolls V: Skyrim
+RPG;The Witcher 3: Wild Hunt
+Sports;F1 25
+Sports;FIFA 25
+Sports;MotoGP 25
+Sports;NBA 2K25
+Sports;Rocket League
+Horror;Outlast
+Horror;Phasmophobia
+Horror;Resident Evil 7
+Horror;Silent Hill 2
+Horror;The Evil Within
